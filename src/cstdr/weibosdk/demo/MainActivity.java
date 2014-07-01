@@ -74,7 +74,7 @@ public class MainActivity extends Activity {
 		initBtnAuthTX();
 		initBtnAddTX();
 		initBtnLogoutTX();
-		// sina
+		// sina wang
 		initTvAuthSina();
 		initTvTokenSina();
 		initBtnAuthSina();
